@@ -1,0 +1,33 @@
+{
+    "company_name": "Tech Innovators",
+    "address": "1234 Innovation Way, Hanoi, Vietnam",
+    "units": [
+      {
+        "unit_name": "A1",
+        "employees": 50,
+        "percentage_of_total": 10.0
+      },
+      {
+        "unit_name": "A2",
+        "employees": 100,
+        "percentage_of_total": 20.0
+      },
+      {
+        "unit_name": "A3",
+        "employees": 150,
+        "percentage_of_total": 30.0
+      },
+      {
+        "unit_name": "A4",
+        "employees": 75,
+        "percentage_of_total": 15.0
+      },
+      {
+        "unit_name": "A5",
+        "employees": 125,
+        "percentage_of_total": 25.0
+      }
+    ],
+    "total_employees": 500
+  }
+  
